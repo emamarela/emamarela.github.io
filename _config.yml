@@ -2,7 +2,8 @@
 title: Emanuela Kuhlman
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
- url: https://emamarela.github.io/
+#url: https://emamarela.github.io/
+url: http://localhost:3000
 
 # User settings
 username: Emanuela Kuhlman
