@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "image": {
           "src": "img/github.svg",
-          "width": 200,
+          "width": 400,
           "height": 200
         }
       },
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "anim": {
           "enable": false,
           "speed": 4,
-          "size_min": 0.3,
+          "size_min": 0.9,
           "sync": false
         }
       },
