@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function () {
       "shape": {
         "type": "circle",
         "stroke": {
-          "width": 0,
-          "color": "#000000"
+          "width": 10,
+          "color": "#ff0000"
         },
         "polygon": {
           "nb_sides": 5
