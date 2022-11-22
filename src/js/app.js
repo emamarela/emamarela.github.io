@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#bc4b4b"
       },
       "shape": {
         "type": "circle",
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "image": {
           "src": "img/github.svg",
           "width": 400,
-          "height": 200
+          "height": 400
         }
       },
       "opacity": {
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "size": {
-        "value": 3,
+        "value": 30,
         "random": true,
         "anim": {
           "enable": false,
@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "bubble": {
           "distance": 250,
-          "size": 0,
+          "size": 10,
           "duration": 2,
           "opacity": 0,
           "speed": 3
