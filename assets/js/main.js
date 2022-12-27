@@ -8,14 +8,14 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       "particles": {
         "number": {
-          "value": 80,
+          "value": 200,
           "density": {
             "enable": true,
             "value_area": 800
           }
         },
         "color": {
-          "value": "#ffffff"
+          "value": "#f6acff"
         },
         "shape": {
           "type": "circle",
