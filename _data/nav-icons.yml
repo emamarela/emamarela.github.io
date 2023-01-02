@@ -35,3 +35,8 @@
   icon: fab fa-linkedin-in
   url: https://www.linkedin.com/emamarela
   typewrite: LinkedIn
+
+- id: adventure
+  icon: fas fa-mountain
+  url: adventure
+  typewrite: Adventure Enthusiast
