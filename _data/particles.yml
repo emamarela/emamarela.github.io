@@ -3,7 +3,7 @@
 color: rgba(170, 39, 245, 0.8)  # Particle color
 radius: 10  # Particle size
 proximity: 150  # How close two particles need to be before they join
-density: 20000  # actually = opposite of density; 1 particle every n pixels
+density: 5000  # actually = opposite of density; 1 particle every n pixels
 
 line:
   color: rgba(170, 39, 245, 0.8)

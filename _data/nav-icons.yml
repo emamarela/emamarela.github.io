@@ -28,10 +28,15 @@
 
 - id: github
   icon: fab fa-github-alt
-  url: https://github.com/ashtonmv/particular-theme
+  url: https://github.com/emamarela
   typewrite: Github
 
 - id: linkedin
   icon: fab fa-linkedin-in
-  url: https://www.linkedin.com
+  url: https://www.linkedin.com/in/emamarela/
   typewrite: LinkedIn
+
+- id: adventure
+  icon: fas fas fa-mountain
+  url: adventure
+  typewrite: Adventure Enthusiast
