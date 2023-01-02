@@ -1,22 +1,12 @@
 # Site settings
-title: Emanuela Kuhlman
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-#url: https://emamarela.github.io/
-url: http://localhost:4000
-
-# User settings
-username: Emanuela Kuhlman
-user_description: I'm a Data Scientist.
-user_title: Data Scientist
+title: Launch
 email: emanuelakuhlman@outlook.de
-# twitter_username: lorem_ipsum
-#instagram_username: lorem_ipsum
-#facebook_username: lorem_ipsum
-linkedin_username: emamarela
-github_username:  emamarela
-# medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
-# gplus_username:  lorem_ipsum
+url: http://localhost:4000
+#baseurl: /
+description: A clean, comfortable home for your resumé
+phone: xxx
+keywords: Jekyll, Template, Website, Resume, Portfolio, Personal, CV
+meta_author: xxx
 
-exclude: ['package.json', 'src' , 'node_modules']
+markdown: xxx
+permalink: pretty

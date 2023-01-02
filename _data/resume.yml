@@ -1,0 +1,98 @@
+name: Your Name
+role: Your Role
+website: your-website.com
+phone: +0 867 5309
+address: 1 Long Str.</br>Long Island, Long State 00000
+image: img/headshot_2.png
+download: downloads/resume.pdf
+
+personal-profile: I... need a job.
+
+skills:
+  - HTML(5)
+  - CSS/sass
+  - javascript/JQuery
+  - Python
+  - C++
+  - Django
+  - Git
+  - Linux
+  - SQL
+
+education:
+  -
+    title: xx
+    institute: University of Mannheim
+    dates: xxx
+    bullets:
+    -
+      title: GPA
+      info: xxx
+    - title: Advisor
+      info: Dr. xxx
+    - title: Thesis
+      info: xxx
+  -
+    title: Bachelor of Science xx
+    institute: University of xxx
+    dates: xxx
+    bullets:
+    -
+      title: xx
+      info: xx
+    - title: xx
+      info: xx
+
+work-history:
+  -
+    title: x
+    employer: x
+    dates: x
+    bullets:
+      - x.
+      - x
+  - 
+    title: x
+    employer: x
+    dates: x
+    bullets:
+      -x
+  - 
+    title: x
+    employer: x
+    dates: x
+    bullets:
+      - x
+
+awards:
+  - 
+    title: Nobel Peace Prize (2019)
+    bullets: null
+  - 
+    title: Particular Jekyll Theme
+    bullets:
+      - Designed and developed the <a href="https://github.com/ashtonmv/particular-theme" target="_blank">Particular</a> theme for Jekyll.
+      - This theme is used by lots of people.
+  -
+    title: Another Github Project
+    bullets:
+      - A project I contributed to on Github
+      - A description of how I improved the project
+  -
+    title: HackerRank
+    bullets:
+      - An achievement I reached on HackerRank
+
+references:
+  -
+    name: Nicholas S. Claus
+    position: CEO, toys
+    email: santa@gmail.com
+  -
+    name: Jack Frost
+    position: CEO, cold
+    email: jfrost@gmail.com
+  -
+    name: Michael Ashton
+    position: CEO, being cool
+    email: michael@gmail.com
