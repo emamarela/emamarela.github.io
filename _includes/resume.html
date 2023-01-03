@@ -108,10 +108,10 @@
 			
 			<div class="sectionContent">
 				{% assign i=0 %}
-				{% for language in site.data.resume.language %}
+				{% for languages in site.data.resume.languages %}
 					{% if i != 0%}<hr>{% endif %}
 					{% assign i = i | plus:1 %}
-					<h2>{{ language.title }}</h2>
+					<h2>{{ languages.title }}</h2>
 					{% for bullet in language.bullets %}
 						<p class="resume-bullet">{{ bullet }}</p>
 					{% endfor %}
