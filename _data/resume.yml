@@ -23,7 +23,8 @@ education:
     title: Master of Science Data Science
     institute: University of Mannheim
     dates: September 2020 - July 2022
-    bullets: Relevant Courses / 
+    bullets: 
+    - Relevant Courses / 
     - Text Analytics
     - Data Mining
     - Web Mining Sentiment Analysis
