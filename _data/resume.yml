@@ -3,7 +3,7 @@ role: Open to new positions
 website: emamarela.github.io
 phone: +4915901400607
 #address: 1 Long Str.</br>Long Island, Long State 00000
-image: img/IMG_03281.jpg
+image: img/IMG_03281.png
 download: downloads/resume.pdf
 
 personal-profile: ........
@@ -17,13 +17,17 @@ skills:
   - Python (Pandas, Pytorch, Networkx)
   - Git
   - Data Visualization with Tableau, Excel, Matplotlib
-
+  
 education:
   -
     title: Master of Science Data Science
     institute: University of Mannheim
     dates: September 2020 - July 2022
-    bullets: Relevant Courses / Text Analytics, Data Mining, Web Mining Sentiment Analysis, Marketing Analytics
+    bullets: Relevant Courses / 
+    - Text Analytics
+    - Data Mining
+    - Web Mining Sentiment Analysis
+    - Marketing Analytics
     -
       title: GPA
       info: xxx
