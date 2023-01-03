@@ -45,7 +45,7 @@ education:
       info: xx
     - title: xx
       info: xx
-      
+
 work-history:
   -
     title: SAP Associate  S/4HANA Cloud Solution Experience
@@ -55,34 +55,19 @@ work-history:
       - Achieved the automation of the FAQ embedded into several SAP platforms by training, building, connecting and monitoring an intelligent chatbot using the SAP Conversational AI platform .
       - Conducted data wrangling operations in Excel for further analysis and visualizations in SAP Analytics Cloud
       - Facilitated reusability of End-to-End demonstration scenarios projects for Presales and other internal customers by including a video option using Snagit, and an oﬄine version using Axure RP
+  - 
+    title: x
+    employer: x
+    dates: x
+    bullets:
+      -x
+  - 
+    title: x
+    employer: x
+    dates: x
+    bullets:
+      - x
 
-  - 
-    title: SAP Associate - Contracting Enterprise Analytics
-    employer: SAP SE
-    dates: December 2018 - January 2021
-    bullets:
-      -Assisted in the development of a machine learning model to extract speciﬁc clauses for On Premise contracts.
-     - Analyzed On Premise data for speciﬁc clauses and derive patterns for future Machine Learning algorithms
-     - Developed CMS Analytics dashboards visualizing the results.
-     - Conducted research and development of machine learning models
-     - Facilitated testing of migration to new ERP system
-     - Ensured data quality for data analytics and visualizations in CMS
-  - 
-    title: SAP Associate - Central release and product data management
-    employer: SAP SE
-    dates: June 2017 - December 2018
-    bullets:
-      - Created reports for release planning and product data management
-      - Maintained Wiki, collaboration sites and SAP Intranet portal pages for internal communication
-      - Monitored development programs and maintained product related data
-   - 
-    title: Electronic Invoice Specialist
-    employer: Digithera SRL
-    dates: June 2014 - January 2017
-    bullets:
-      - Automated the dematerialization of ﬁscal documents into electronic format XML Invoice-to-XML data mapping
-      - Software Performance Testing
-      - Recruiting staﬀ (developing job descriptions and person speciﬁcations, preparing job adverts, checking application forms,  shortlisting, interviewing and selecting candidates)
 languages:
   - 
     title: Albanian, English, German, Italian, Spanish
