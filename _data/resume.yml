@@ -67,24 +67,11 @@ work-history:
     dates: x
     bullets:
       - x
-awards:
+languages:
   - 
-    title: Nobel Peace Prize (2019)
+    title: Albanian, English, German, Italian, Spanish
     bullets: null
-  - 
-    title: Particular Jekyll Theme
-    bullets:
-      - Designed and developed the <a href="https://github.com/ashtonmv/particular-theme" target="_blank">Particular</a> theme for Jekyll.
-      - This theme is used by lots of people.
-  -
-    title: Another Github Project
-    bullets:
-      - A project I contributed to on Github
-      - A description of how I improved the project
-  -
-    title: HackerRank
-    bullets:
-      - An achievement I reached on HackerRank
+
 #references:
   -
  #   name: Nicholas S. Claus
