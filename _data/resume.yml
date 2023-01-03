@@ -25,15 +25,23 @@ education:
     dates: September 2020 - July 2022
     bullets: Relevant Courses-- Text Analytics, Data Mining, Web Mining Sentiment Analysis, Marketing Analytics
     -
+      #title: GPA
+      #info: xxx
     - title: Advisor
       info: Dr. Ines Rehbein
     - title: Master Thesis
-      info:  Active Learning for Multi-label Text Classiﬁcation with Transformers
+      info: Active Learning for Multi-label Text Classiﬁcation with Transformers
+  
   -
     title: B.Sc. Business Informatics
     institute: Faculty of Economy, University of Tirana
     dates: October 2011 - October 2014
-    
+    bullets:
+    -
+      title: 
+      info: 
+    - title: 
+      info: 
 work-history:
   -
     title: SAP Associate - S/4HANA Cloud Solution Experience
