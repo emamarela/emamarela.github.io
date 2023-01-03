@@ -57,10 +57,15 @@ work-history:
       - Facilitated reusability of End-to-End demonstration scenarios projects for Presales and other internal customers by including a video option using Snagit, and an oﬄine version using Axure RP
   - 
     title: SAP Associate - Contracting Enterprise Analytics
-    employer: x
+    employer: SAP SE
     dates: x
     bullets:
-      -x
+      - Assisted in the development of a machine learning model to extract speciﬁc clauses for On Premise contracts.
+      - Analyzed On Premise data for speciﬁc clauses and derive patterns for future Machine Learning algorithms
+      - Developed CMS Analytics dashboards visualizing the results.
+      - Conducted research and development of machine learning models
+      - Facilitated testing of migration to new ERP system
+      - Ensured data quality for data analytics and visualizations in CMS
   - 
     title: x
     employer: x
