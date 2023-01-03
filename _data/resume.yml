@@ -2,7 +2,7 @@ name: Emanuela Kuhlman
 role: Open to new positions
 website: emamarela.github.io
 phone: +4915901400607
-#address: 1 Long Str.</br>Long Island, Long State 00000
+address: null
 image: img/IMG_03281.png
 download: downloads/resume.pdf
 
@@ -40,7 +40,8 @@ education:
     title: Bachelor of Science Business Informatics
     institute: Faculty of Economy, University of Tirana
     dates: October 2011 - October 2014
-    #bullets: 
+    bullets:
+    - Courses 
     -
       title: xx
       info: xx
