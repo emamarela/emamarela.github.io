@@ -23,11 +23,12 @@ education:
     title: M.Sc. Data Science,
     institute: University of Mannheim
     dates: September 2020 - July 2022
-    relevant Courses: Text Analytics, Data Mining, Web Mining Sentiment Analysis, Marketing Analytics
+    bullets: Relevant Courses-- Text Analytics, Data Mining, Web Mining Sentiment Analysis, Marketing Analytics
     -
     - title: Advisor
       info: Dr. Ines Rehbein
-    - Master Thesis: Active Learning for Multi-label Text Classiﬁcation with Transformers
+    - title: Master Thesis
+      info:  Active Learning for Multi-label Text Classiﬁcation with Transformers
   -
     title: B.Sc. Business Informatics
     institute: Faculty of Economy, University of Tirana
