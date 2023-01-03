@@ -3,35 +3,31 @@ role: Open to new positions
 website: emamarela.github.io
 phone: +4915901400607
 #address: 1 Long Str.</br>Long Island, Long State 00000
-image: img/headshot_2.png
+image: img/IMG_03281.jpg
 download: downloads/resume.pdf
 
-personal-profile: I
+personal-profile: ........
 
 skills:
-  - HTML(5)
-  - CSS/sass
-  - javascript/JQuery
-  - Python
-  - C++
-  - Django
+  - Data Mining & Visualization 
+  - Machine Learning Algorithms 
+  - Celonis Process Mining 
+  - Web Mining
+  - R
+  - Python (Pandas, Pytorch, Networkx)
   - Git
-  - Linux
-  - SQL
+  - Data Visualization with Tableau, Excel, Matplotlib
 
 education:
   -
-    title: xx
+    title: M.Sc. Data Science
     institute: University of Mannheim
-    dates: xxx
-    bullets:
-    -
-      title: GPA
-      info: xxx
+    dates: September 2020 - July 2022
+    bullets: Relevant Courses / Text Analytics, Data Mining, Web Mining Sentiment Analysis, Marketing Analytics
     - title: Advisor
-      info: Dr. xxx
-    - title: Thesis
-      info: xxx
+      info: Dr. Ines Rehbein
+    - title: Master Thesis
+      info: Active Learning for Multi-label Text Classiﬁcation with Transformers
   -
     title: Bachelor of Science xx
     institute: University of xxx
