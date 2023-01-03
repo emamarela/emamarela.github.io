@@ -58,7 +58,7 @@ work-history:
   - 
     title: SAP Associate - Contracting Enterprise Analytics
     employer: SAP SE
-    dates: x
+    dates: December 2018 - January 2021
     bullets:
       - Assisted in the development of a machine learning model to extract speciﬁc clauses for On Premise contracts.
       - Analyzed On Premise data for speciﬁc clauses and derive patterns for future Machine Learning algorithms
@@ -72,6 +72,12 @@ work-history:
     dates: x
     bullets:
       - x
+  - 
+    title: x
+    employer: x
+    dates: x
+    bullets:
+      - x      
 
 languages:
   - 
