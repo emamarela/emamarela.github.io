@@ -25,16 +25,15 @@
   icon: fas fa-file-contract
   url: resume
   typewrite: Resumé
-
-- id: github
-  icon: fab fa-github-alt
-  url: https://github.com/emamarela
-  typewrite: Github
-
+  
 - id: linkedin
   icon: fab fa-linkedin-in
   url: https://www.linkedin.com/in/emamarela/
   typewrite: LinkedIn
+- id: github
+  icon: fab fa-github-alt
+  url: https://github.com/emamarela
+  typewrite: Github
 
 - id: adventure
   icon: fas fa-mountain
