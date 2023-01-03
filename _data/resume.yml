@@ -20,10 +20,13 @@ skills:
 
 education:
   -
-    title: M.Sc. Data Science
+    title: Master of Science Data Science
     institute: University of Mannheim
     dates: September 2020 - July 2022
     bullets: Relevant Courses / Text Analytics, Data Mining, Web Mining Sentiment Analysis, Marketing Analytics
+    -
+      title: GPA
+      info: xxx
     - title: Advisor
       info: Dr. Ines Rehbein
     - title: Master Thesis
