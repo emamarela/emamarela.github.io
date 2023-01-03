@@ -40,7 +40,8 @@ education:
     title: Bachelor of Science Business Informatics
     institute: Faculty of Economy, University of Tirana
     dates: October 2011 - October 2014
-    bullets: null
+    bullets: 
+    - null
     -
       title: xx
       info: xx
