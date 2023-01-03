@@ -37,10 +37,16 @@ education:
     - title: Master Thesis
       info: Active Learning for Multi-label Text Classiﬁcation with Transformers
   -
-       title: B.Sc. Business Informatics
+    title: B.Sc. Business Informatics
     institute: Faculty of Economy, University of Tirana
     dates: October 2011 - October 2014
-    
+    bullets: null
+    -
+      title: null
+      info: null
+    - title: null
+      info: null
+  
 work-history:
   -
     title: SAP Associate - S/4HANA Cloud Solution Experience
