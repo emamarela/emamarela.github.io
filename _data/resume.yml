@@ -37,66 +37,55 @@ education:
     - title: Master Thesis
       info: Active Learning for Multi-label Text Classiﬁcation with Transformers
   -
-    title: Bachelor of Science xx
-    institute: University of xxx
-    dates: xxx
-    bullets:
-    -
-      title: xx
-      info: xx
-    - title: xx
-      info: xx
-
+       title: B.Sc. Business Informatics
+    institute: Faculty of Economy, University of Tirana
+    dates: October 2011 - October 2014
+    
 work-history:
   -
-    title: x
-    employer: x
-    dates: x
+    title: SAP Associate - S/4HANA Cloud Solution Experience
+    employer: SAP SE
+    dates: January 2021 –July 2022
     bullets:
-      - x.
-      - x
+      - Achieved the automation of the FAQ embedded into several SAP platforms by training, building, connecting and monitoring an intelligent chatbot using the SAP Conversational AI platform .
+      - Conducted data wrangling operations in Excel for further analysis and visualizations in SAP Analytics Cloud
+      - Facilitated reusability of End-to-End demonstration scenarios projects for Presales and other internal customers by including a video option using Snagit, and an oﬄine version using Axure RP
   - 
-    title: x
-    employer: x
-    dates: x
+    title: SAP Associate - Contracting Enterprise Analytics
+    employer: SAP SE
+    dates: December 2018 - January 2021
     bullets:
-      -x
+     - Assisted in the development of a machine learning model to extract speciﬁc clauses for On Premise contracts.
+     - Analyzed On Premise data for speciﬁc clauses and derive patterns for future Machine Learning algorithms
+     - Developed CMS Analytics dashboards visualizing the results.
+     - Conducted research and development of machine learning models
+     - Facilitated testing of migration to new ERP system
+     - Ensured data quality for data analytics and visualizations in CMS
   - 
-    title: x
-    employer: x
-    dates: x
+    title: SAP Associate - Central release and product data management
+    employer: SAP SE
+    dates: June 2017 - December 2018
     bullets:
-      - x
-
-awards:
+      - Created reports for release planning and product data management
+      - Maintained Wiki, collaboration sites and SAP Intranet portal pages for internal communication
+      - Monitored development programs and maintained product related data
+ - 
+    title: Electronic Invoice Specialist
+    employer: Digithera SRL
+    dates:  June 2014 - January 2017
+    bullets:
+      - Automated the dematerialization of ﬁscal documents into electronic format XML Invoice-to-XML data mapping
+      - Software Performance Testing
+      - Recruiting staﬀ (developing job descriptions and person speciﬁcations, preparing job adverts, checking application forms,  shortlisting, interviewing and selecting candidates)
+languages:
   - 
-    title: Nobel Peace Prize (2019)
+    title: Albanian, English, German, Italian, Spanish
     bullets: null
-  - 
-    title: Particular Jekyll Theme
-    bullets:
-      - Designed and developed the <a href="https://github.com/ashtonmv/particular-theme" target="_blank">Particular</a> theme for Jekyll.
-      - This theme is used by lots of people.
-  -
-    title: Another Github Project
-    bullets:
-      - A project I contributed to on Github
-      - A description of how I improved the project
-  -
-    title: HackerRank
-    bullets:
-      - An achievement I reached on HackerRank
 
-#references:
+
+references:
   -
- #   name: Nicholas S. Claus
-  #  position: CEO, toys
-   # email: santa@gmail.com
-  -
-    #name: Jack Frost
-    #position: CEO, cold
-    #email: jfrost@gmail.com
-  -
-    #name: Michael Ashton
-    #position: CEO, being cool
-    #email: michael@gmail.com
+    name: null
+    position: null
+    email: null
+

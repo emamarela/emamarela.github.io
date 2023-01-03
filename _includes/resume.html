@@ -102,17 +102,17 @@
 
 		<section class="resume-section">
 			<div class="sectionTitle">
-				<h1>Awards and Other Work</h1>
+				<h1>Languages and Other Work</h1>
 				<hr>
 			</div>
 			
 			<div class="sectionContent">
 				{% assign i=0 %}
-				{% for award in site.data.resume.awards %}
+				{% for language in site.data.resume.language %}
 					{% if i != 0%}<hr>{% endif %}
 					{% assign i = i | plus:1 %}
-					<h2>{{ award.title }}</h2>
-					{% for bullet in award.bullets %}
+					<h2>{{ language.title }}</h2>
+					{% for bullet in language.bullets %}
 						<p class="resume-bullet">{{ bullet }}</p>
 					{% endfor %}
 				{% endfor %}
