@@ -5,7 +5,7 @@ phone: +4915901400607
 #address: 1 Long Str.</br>Long Island, Long State 00000
 image: img/IMG_03281.png
 download: downloads/resume.pdf
-personal-profile: ........
+personal-profile: null
 skills:
   - Data Mining & Visualization 
   - Machine Learning Algorithms 
