@@ -534,10 +534,10 @@ section.page {
 /* resume-specifics */
 
 #resume-body {
-    width: 90%;
+    width: 100%;
     max-width: 800px;
     color: $content-color;
-    margin: 30px auto;
+    margin: 0px auto;
 }
 
 #resume-body a, a[href^=tel] {
@@ -565,7 +565,7 @@ section.page {
     font-size: 20px;
     color: $primary-color;
     background: $content-color;
-    transition: all .3s ease-in-out;
+    #transition: all .3s ease-in-out;
 }
 
 .resume-section.btn-outline:hover,
@@ -574,7 +574,7 @@ section.page {
 .resume-section.btn-outline.active {
     color: $content-color;
     background: $primary-color;
-    transition: all .3s ease-in-out;
+    #transition: all .3s ease-in-out;
 }
 
 .resume-section {
