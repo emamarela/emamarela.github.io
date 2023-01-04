@@ -543,7 +543,7 @@ section.page {
 #resume-body a, a[href^=tel] {
     color: $content-color;
     text-decoration: underline;
-    transition-property: none;
+    transition: none;
     #-webkit-transition: all .3s ease-in;
     #-moz-transition: all .3s ease-in;
     #-o-transition: all .3s ease-in;
@@ -566,6 +566,7 @@ section.page {
     font-size: 20px;
     color: $primary-color;
     background: $content-color;
+    transition: none;	
     #transition: all .3s ease-in-out;
 }
 
@@ -576,7 +577,7 @@ section.page {
     color: $content-color;
     background: $primary-color;
     #transition: all .3s ease-in-out;
-    transition-property: none;
+    transition: none;
 }
 
 .resume-section {
