@@ -543,11 +543,12 @@ section.page {
 #resume-body a, a[href^=tel] {
     color: $content-color;
     text-decoration: underline;
-    -webkit-transition: all .3s ease-in;
-    -moz-transition: all .3s ease-in;
-    -o-transition: all .3s ease-in;
-    -ms-transition: all .3s ease-in;
-    transition: all .3s ease-in;
+    transition-property: none;
+    #-webkit-transition: all .3s ease-in;
+    #-moz-transition: all .3s ease-in;
+    #-o-transition: all .3s ease-in;
+    #-ms-transition: all .3s ease-in;
+    #transition: all .3s ease-in;
 }
 
 #resume-body section {
@@ -575,6 +576,7 @@ section.page {
     color: $content-color;
     background: $primary-color;
     #transition: all .3s ease-in-out;
+    transition-property: none;
 }
 
 .resume-section {
