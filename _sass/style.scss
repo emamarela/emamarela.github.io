@@ -554,6 +554,7 @@ section.page {
 }
 
 #resume-body section {
+    background-color: $primary-color;
     padding: 5px 0 0;
 }
 
@@ -562,6 +563,7 @@ section.page {
 }
 
 .resume-section.btn-outline {
+    background-color: $primary-color;
     width: 200px;
     text-align: center !important;
     border: solid 2px $content-color;
@@ -583,6 +585,7 @@ section.page {
 }
 
 .resume-section {
+    background-color: $primary-color;
     padding: 25px 25px !important;
     margin: 0px 0px 20px 0px !important;
     position: relative;
@@ -593,10 +596,12 @@ section.page {
 }
 
 .resume-section h2 {
+    background-color: $primary-color;
     padding-bottom: 10px;
 }
 
 .resume-bullet {
+    background-color: $primary-color;
     font-size: 1.1em;
     padding: 0.5em 0em 0em 1em;
 }
@@ -606,6 +611,7 @@ section.page {
 }
 
 .mainDetails {
+    background-color: $primary-color;
     position: relative;
     top: -50px;
     padding: 0px 35px 35px 35px !important;
@@ -645,6 +651,7 @@ section.page {
 }
 
 #contactDetails {
+    background-color: $primary-color;
     padding-top: 20px;
     float: right;
 }
