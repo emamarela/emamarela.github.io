@@ -873,10 +873,12 @@ section.page {
 
   .races {
     list-style: circle;
-    background: none;
+    background-color: transparent;
     margin: 0;
     padding: 0;
   }
   .races li {
-    margin: 10
+    color: white;
+    margin: 10;
+    padding: 5px 0 0;
   }
