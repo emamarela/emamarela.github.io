@@ -872,15 +872,16 @@ section.page {
 
 
   .races {
-    background-color: transparent;
+    background-color: $primary-color;
     margin: 0;
     padding: 0;
   }
 
   .races li {
-    list-style: circle;
+    background-color: $primary-color;
+    list-style-type: circle;
     display: inherit;
-    text-align: center;
+
     color: $content-color;
     margin: 0 auto;
     padding: 5px 0 0;
