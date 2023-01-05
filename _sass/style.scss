@@ -534,6 +534,7 @@ section.page {
 /* resume-specifics */
 
 #resume-body {
+    background-color: $primary-color;
     width: 100%;
     max-width: 800px;
     color: $content-color;
@@ -541,14 +542,15 @@ section.page {
 }
 
 #resume-body a, a[href^=tel] {
+    background-color: $primary-color;
     color: $content-color;
     text-decoration: underline;
     transition: none;
-    #-webkit-transition: all .3s ease-in;
-    #-moz-transition: all .3s ease-in;
-    #-o-transition: all .3s ease-in;
-    #-ms-transition: all .3s ease-in;
-    #transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    transition: all .3s ease-in;
 }
 
 #resume-body section {
@@ -556,7 +558,7 @@ section.page {
 }
 
 #resume-body .pg-canvas {
-    background: none;
+    background-color: $primary-color;
 }
 
 .resume-section.btn-outline {
@@ -567,7 +569,7 @@ section.page {
     color: $primary-color;
     background: $content-color;
     transition: none;	
-    #transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 .resume-section.btn-outline:hover,
@@ -576,7 +578,7 @@ section.page {
 .resume-section.btn-outline.active {
     color: $content-color;
     background: $primary-color;
-    #transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
     transition: none;
 }
 
@@ -878,10 +880,9 @@ section.page {
   }
 
   .races li {
+    list-style-type: circle;    
     background-color: $primary-color;
-    list-style-type: circle;
     display: inherit;
-
     color: $content-color;
     margin: 0 auto;
     padding: 5px 0 0;
