@@ -869,3 +869,13 @@ section.page {
   .demo:hover {
     opacity: 1;
   }
+
+
+  .races {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .races li {
+    margin: 10
+  }
