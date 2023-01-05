@@ -1,45 +1,30 @@
 <div id="mainArea" class="fade-0 particles">
   <script src="{{ 'js/slides.js' | relative_url }}"></script>
 	{% include nav.html %}
-<section id ="racelist">
-  <ul class="races">
-    <li>
-      <time>Jul 17, 2021</time>
-      <h2>Mountainman Reit im Winkl</h2>
-      <p>XL-ULTRATRAIL, 55km and 2200 MT+ , Reit im Winkl, DEU</p>
-    </li>
-    <li>
-      <time>Feb 26, 2022</time>
-      <h2>HaWei50</h2>
-      <p>50km Ubstadt-Weiher, DEU</p>
-    </li>
-    <li>
-      <time>Mar 26, 2022</time>
-      <h2>Golden Gate Headlands Marathon</h2>
-      <p> Marathon 1262 MT+, San Francisco, CA</p>
-    </li>
-    <li>
-      <time>May 21, 2022</time>
-      <h2>Mountainman Nesselwang Marathon</h2>
-      <p>XL-TRAIL: 42km and 2410 MT+, Nesselwang, DEU</p>
-    </li>
-    <li>
-      <time>June 18, 2022</time>
-      <h2>mozart 100® by UTMB®</h2>
-      <p>105.50 km and 4510 MT+, Salzburg AU</p>
-    </li>  
-    <li>
-      <time>Oct 2, 2022</time>
-      <h2>PfalzTrail 2022</h2>
-      <p>36 km and 970MT +, Carlsberg DEU</p>
-    </li>   
-    <li>
-      <time>Dec 10, 2022</time>
-      <h2>DOI INTHANON BY UTMB 2022 </h2>
-      <p>Pagoda 50, 55km and 3140 MT+, Mae Chame THAI</p>
-    </li>           
-  </ul>
-</section>
+
+  <section class="resume-section">
+    <div class="sectionTitle">
+      <h1>Ultrarunning races</h1>
+      <hr>
+    </div>
+    
+    <div class="sectionContent">
+      {% assign i=0 %}
+      {% for race in site.data.adventure.races %}
+        {% if i != 0%}<hr>{% endif %}
+        {% assign i = i | plus:1 %}
+        <article>
+          <h2>{{ race.title }}</h2>
+          <p class="subDetails">{{ race.dates }}</p>
+          {% for bullet in race.bullets %}
+            <p class="resume-bullet">{{ bullet }}</p>
+          {% endfor %}
+        </article>
+      {% endfor %}
+    </div>
+    <div class="clear"></div>
+  </section>
+
   <!-- Container for the image gallery -->
 <div class="gallery_container">
   <h1 style="color:rgb(234, 237, 240)">Ultrarunning races</h1>
