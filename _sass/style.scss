@@ -889,9 +889,10 @@ section.page {
   .races li {
     list-style-type: circle;    
     background-color: $primary-color;
-    width: 200px;
+    width: auto;
     color: $content-color;
-    margin: 0 auto;
-    padding: 5px 0 0;
+    margin: auto;
+    padding-right: var(--base-size-32, 32px) !important;
+    padding-left: var(--base-size-32, 32px) !important;
     position: relative;	  
   }
