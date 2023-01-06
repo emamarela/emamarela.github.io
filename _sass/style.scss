@@ -799,6 +799,8 @@ section.page {
   /* Position the image container (needed to position the left and right arrows) */
   .gallery_container {
     position: relative;
+    align-items: center;
+    justify-content: center;
   }
   
   /* Hide the images by default */
