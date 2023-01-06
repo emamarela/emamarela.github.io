@@ -799,8 +799,7 @@ section.page {
   /* Position the image container (needed to position the left and right arrows) */
   .gallery_container {
     position: relative;
-    align-items: center;
-    justify-content: center;
+
   }
   
   /* Hide the images by default */
@@ -853,6 +852,8 @@ section.page {
   
   /* Container for image text */
   .caption-container {
+    align-items: center;
+    justify-content: center;
     text-align: center;
     background-color: #222;
     padding: 2px 16px;
