@@ -1,42 +1,46 @@
 races:
   -
-    title: Mountainman Reit im Winkl
-    dates: Jul 17, 2021
+    title: Coming soon - UTMB® Mont Blanc 2023 - UTMB®
+    dates: Sep 1, 2023
     bullets:
-    - XL-ULTRATRAIL, 55km and 2200 MT+ , Reit im Winkl, DEU
+    - 170.30 KM and 10050 MT+, Chamonix France
   -
-    title: HaWei50
-    dates: Feb 26, 2022
+    title: DOI INTHANON BY UTMB 2022
+    dates: Dec 10, 2022
     bullets:
-    - 50km, Ubstadt-Weiher, DEU
-  -
-    title: Golden Gate Headlands Marathon
-    dates: Mar 26, 2022
-    bullets:
-    - Marathon 1262 MT+, San Francisco, CA
-  -
-    title: Mountainman Nesselwang Marathon
-    dates: May 21, 2022
-    bullets:
-    - XL-TRAIL, 42km and 2410 MT+, Nesselwang, DEU
-  -
-    title: mozart 100® by UTMB®
-    dates: June 18, 2022
-    bullets:
-    - 105.50 km and 4510 MT+, Salzburg AU
+    - Pagoda 50, 55km and 3140 MT+, Mae Chame THAI
   -
     title: PfalzTrail 2022
     dates: Oct 2, 2022
     bullets:
     - 36 km and 970MT +, Carlsberg DEU
   -
-    title: DOI INTHANON BY UTMB 2022
-    dates: Dec 10, 2022
+    title: mozart 100® by UTMB®
+    dates: June 18, 2022
     bullets:
-    - Pagoda 50, 55km and 3140 MT+, Mae Chame THAI
-
+    - 105.50 km and 4510 MT+, Salzburg AU
   -
-    title: Coming soon - UTMB® Mont Blanc 2023 - UTMB®
-    dates: Sep 1, 2023
+    title: Mountainman Nesselwang Marathon
+    dates: May 21, 2022
     bullets:
-    - 170.30 KM and 10050 MT+, Chamonix France
+    - XL-TRAIL, 42km and 2410 MT+, Nesselwang, DEU
+  -
+    title: Golden Gate Headlands Marathon
+    dates: Mar 26, 2022
+    bullets:
+    - Marathon 1262 MT+, San Francisco, CA
+  -
+    title: HaWei50
+    dates: Feb 26, 2022
+    bullets:
+    - 50km, Ubstadt-Weiher, DEU
+  -
+    title: Mountainman Reit im Winkl
+    dates: Jul 17, 2021
+    bullets:
+    - XL-ULTRATRAIL, 55km and 2200 MT+ , Reit im Winkl, DEU
+
+
+
+
+
