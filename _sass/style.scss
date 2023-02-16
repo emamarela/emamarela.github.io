@@ -602,9 +602,11 @@ section.page {
 
 .aboutme {
     text-align: center;
-    padding-bottom: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
   }
-  
+
 .resume-bullet {
     
     font-size: 1.1em;
