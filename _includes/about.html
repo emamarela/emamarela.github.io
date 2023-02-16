@@ -21,14 +21,9 @@
                  src="{{ site.data.about.image | relative_url }}"></img>
         </div>
         
-    <div class="sectionContent">
-        {% assign i=0 %}
-        {% for row in site.data.about.rows  %}
-            {% if i != 0%}<hr>{% endif %}
-            {% assign i = i | plus:1 %}
-            <article>
-                    <p class="about-row">{{ row }}</p>
-            </article>
-        {% endfor %}
-    </div>
+        <div style="text-align:center;">
+            <p>Hi, Welcome to my website! I am a multilingual data scientist with a passion for running, scuba diving, and training for ultra marathons.</p>
+            <p>Second paragraph goes here.</p>
+            <p>Third paragraph goes here.</p>
+          </div>
 </section>
