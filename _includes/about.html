@@ -32,4 +32,15 @@
             </div>
         {% endfor %}
     </div>
+    <div class="sectionContent">
+        {% assign i=0 %}
+        {% for row in site.data.about.rows  %}
+            {% if i != 0%}<hr>{% endif %}
+            {% assign i = i | plus:1 %}
+            <article>
+                    <p class="resume-bullet">{{ row }}</p>
+                {% endfor %}
+            </article>
+        {% endfor %}
+    </div>
 </section>
