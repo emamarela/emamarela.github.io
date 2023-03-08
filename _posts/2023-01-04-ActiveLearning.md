@@ -4,5 +4,6 @@ layout: default
 modal-id: 6
 image: img/active.png
 description: test
-test project decsription
 ---
+
+: test project decsription
