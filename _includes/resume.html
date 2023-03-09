@@ -78,8 +78,8 @@
 					{% assign i = i | plus:1 %}
 					<article>
 						<h2>{{ degree.title }}, {{ degree.institute }}</h2>
-						<p class="subDetails">{{ position.dates }}</p>
-						{% for bullet in position.bullets %}
+						<p class="subDetails">{{ education.dates }}</p>
+						{% for bullet in education.bullets %}
 							<p class="resume-bullet">{% if bullet.title %}{{ bullet.title }}: {% endif %}{{ bullet.info }}</p>
 						{% endfor %}
 					</article>
