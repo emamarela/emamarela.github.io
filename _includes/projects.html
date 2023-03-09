@@ -50,7 +50,7 @@
                             <img src="{{ post.image | relative_url }}" class="img-featured img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <div class="post-content">
-                                {{ post.content }}
+                                {{ post.content | markdownify }}
                             </div>
                         </div>
                     </div>
