@@ -52,27 +52,24 @@ work-history:
     employer: SAP SE
     dates: January 2021 –July 2022
     bullets:
-      - Achieved the automation of the FAQ embedded into several SAP platforms by training, building, connecting and monitoring an intelligent chatbot using the SAP Conversational AI platform .
-      - Conducted data wrangling operations in Excel for further analysis and visualizations in SAP Analytics Cloud
-      - Facilitated reusability of End-to-End demonstration scenarios projects for Presales and other internal customers by including a video option using Snagit, and an oﬄine version using Axure RP
+      - Automated the FAQ for several SAP platforms by building and training an intelligent chatbot on the SAP Conversational AI platform. Monitored the chatbot's performance to ensure optimal functionality.
+      - Conducted data wrangling operations in Excel to prepare data for analysis and visualization in SAP Analytics Cloud.
+      - Improved the reusability of end-to-end demonstration scenario projects for Presales and internal customers by creating a video option using Snagit and an oﬄine version using Axure RP.
   - 
     title: SAP Associate - Contracting Enterprise Analytics
     employer: SAP SE
     dates: December 2018 - January 2021
     bullets:
-      - Assisted in the development of a machine learning model to extract speciﬁc clauses for On Premise contracts.
-      - Analyzed On Premise data for speciﬁc clauses and derive patterns for future Machine Learning algorithms
-      - Developed CMS Analytics dashboards visualizing the results.
-      - Conducted research and development of machine learning models
-      - Facilitated testing of migration to new ERP system
+      - Assisted in developing a machine learning model to extract speciﬁc clauses for on-premise contracts, including analyzing data and deriving patterns for future machine learning algorithms
+      - Created CMS analytics dashboards to visualize the results of the machine learning model.
+      - Conducted research on development of machine learning models and facilitated testing of migration to a new ERP system.
       - Ensured data quality for data analytics and visualizations in CMS
-  - 
     title: SAP Associate - Central release and product data management
     employer: SAP SE
     dates: June 2017 - December 2018
     bullets:
+      - Maintained Wiki, collaboration sites, and SAP Intranet portal pages for internal communication
       - Created reports for release planning and product data management
-      - Maintained Wiki, collaboration sites and SAP Intranet portal pages for internal communication
       - Monitored development programs and maintained product related data
   - 
     title: Electronic Invoice Specialist
@@ -80,8 +77,8 @@ work-history:
     dates: June 2014 - January 2017
     bullets:
       - Automated the dematerialization of ﬁscal documents into electronic format XML Invoice-to-XML data mapping
-      - Software Performance Testing
-      - Recruiting staﬀ (developing job descriptions and person speciﬁcations, preparing job adverts, checking application forms,  shortlisting, interviewing and selecting candidates)
+      - Conducted manual software performance testing.
+      - Recruited staﬀ by developing job descriptions and person speciﬁcations, preparing job adverts, checking application forms, shortlisting, interviewing, and selecting candidates.
 
 languages:
   - 
