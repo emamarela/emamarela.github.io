@@ -85,11 +85,9 @@ languages:
     title: Albanian, English, German, Italian, Spanish
     bullets: null
 
-#references:
+references:
   -
- #   name: Nicholas S. Claus
-  #  position: CEO, toys
-   # email: santa@gmail.com
+  name:  Google Data Analytics
   -
     #name: Jack Frost
     #position: CEO, cold
