@@ -87,7 +87,9 @@ languages:
 
 references:
   -
-  name:  Google Data Analytics
+    name:  Google Data Analytics
+    position: 
+    email: 
   -
     #name: Jack Frost
     #position: CEO, cold
