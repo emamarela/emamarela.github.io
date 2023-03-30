@@ -8,20 +8,6 @@
   gtag('config', 'G-5NKV464Y64');
 </script>
 
-<script>
-  // Get the Strava embed placeholder element
-  var stravaEmbed = document.getElementById('strava-embed');
-  
-  // Get the embed type and ID from the placeholder element
-  var embedType = stravaEmbed.getAttribute('data-embed-type');
-  var embedId = stravaEmbed.getAttribute('data-embed-id');
-  
-  // Modify the embed code to remove the map element
-  var embedCode = '<div class="strava-embed" data-embed-type="' + embedType + '" data-embed-id="' + embedId + '" data-embed-options="hide_map"></div><script src="https://www.strava.com/assets/embed.js"></script>';
-  
-  // Replace the placeholder element with the modified embed code
-  stravaEmbed.outerHTML = embedCode;
-  </script>
 <div id="mainArea" class="fade-0 particles">
   <script src="{{ 'js/slides.js' | relative_url }}"></script>
 	{% include nav.html %}
