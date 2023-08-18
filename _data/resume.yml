@@ -48,6 +48,12 @@ education:
 
 work-history:
   -
+    title: Associate Data Analyst - Fellowship
+    employer: Amgen
+    dates: September 2023 -November 2023
+    bullets:
+      - ●
+  -
     title: SAP Associate  S/4HANA Cloud Solution Experience
     employer: SAP SE
     dates: January 2021 –July 2022
