@@ -1,4 +1,14 @@
 races:
+-
+    title: TransJeJu by UTMB  - Jeju100M
+    dates: Oct 17, 2025
+    bullets:
+    - 100 M, 5200 M+, Jeju South Korea
+-
+    title: Canyons 100 by UTMB  - 100k
+    dates: Apr 26, 2025
+    bullets:
+    - 100 KM, 3750 M+, Auburn CA USA
   -
     title: Doi Inthanon by UTMB 2023 - HMONG 50
     dates: Dec 9, 2023
@@ -8,7 +18,7 @@ races:
     title: Peacock Challenge
     dates: Oct 14 , 2023
     bullets:
-    - 44km, 2148 MT+, Waialua, Hawai‘i  
+    - 44 KM, 2148 MT+, Waialua, Hawai‘i  
   -
     title: UTMB® Mont Blanc 2023 - UTMB®
     dates: Sep 1, 2023
